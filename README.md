@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinnie</h1>
 <h3 align="center">A passionate computational physicist and data analyst from Brazil</h3>
 
-- 🔭 I’m currently working on **computer modelling: COVID-19 and social isolation**
+<!--- 🔭 I’m currently working on **computer modelling: COVID-19 and social isolation** --->
 
 - 🌱 I’m currently learning **Google Sheets and Spreadsheets, SQL, Tableau, Power BI, Google Data Studio, Google Analytics and Advanced Business Intelligence**
 
